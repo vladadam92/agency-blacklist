@@ -1,0 +1,5 @@
+# Blacklist Agency Toolkit
+# Adauga pe un rand nou codul hardware pe care vrei sa-l revoci
+# Exemplu:
+# X4K9N7P2L3
+# M7T2Q9W5R8
